@@ -1,0 +1,20 @@
+2024-01-30 16:08:29,871 - INFO - Starting downloading process for annotations
+2024-01-30 16:08:29,873 - DEBUG - Starting new HTTPS connection (1): coralnet.ucsd.edu:443
+2024-01-30 16:08:33,665 - DEBUG - https://coralnet.ucsd.edu:443 "GET /accounts/login/ HTTP/1.1" 200 None
+2024-01-30 16:08:34,482 - DEBUG - https://coralnet.ucsd.edu:443 "POST /accounts/login/ HTTP/1.1" 302 0
+2024-01-30 16:08:34,898 - DEBUG - https://coralnet.ucsd.edu:443 "GET /source/ HTTP/1.1" 302 0
+2024-01-30 16:08:35,633 - DEBUG - https://coralnet.ucsd.edu:443 "GET /source/about/ HTTP/1.1" 200 None
+2024-01-30 16:08:35,636 - INFO - login successfully
+2024-01-30 16:08:35,703 - INFO - Downloading annotations for source Vamizi from URL: https://coralnet.ucsd.edu/source/3063/
+2024-01-30 16:08:36,426 - DEBUG - https://coralnet.ucsd.edu:443 "GET /source/3063/ HTTP/1.1" 200 None
+2024-01-30 16:11:18,087 - INFO - Starting downloading process for annotations
+2024-01-30 16:11:18,089 - DEBUG - Starting new HTTPS connection (1): coralnet.ucsd.edu:443
+2024-01-30 16:11:22,050 - DEBUG - https://coralnet.ucsd.edu:443 "GET /accounts/login/ HTTP/1.1" 200 None
+2024-01-30 16:11:25,272 - DEBUG - https://coralnet.ucsd.edu:443 "POST /accounts/login/ HTTP/1.1" 302 0
+2024-01-30 16:11:26,643 - DEBUG - https://coralnet.ucsd.edu:443 "GET /source/ HTTP/1.1" 302 0
+2024-01-30 16:11:27,335 - DEBUG - https://coralnet.ucsd.edu:443 "GET /source/about/ HTTP/1.1" 200 None
+2024-01-30 16:11:27,338 - INFO - login successfully
+2024-01-30 16:11:27,410 - INFO - Downloading annotations for source Vamizi with url https://coralnet.ucsd.edu/source/3063/
+2024-01-30 16:11:28,203 - DEBUG - https://coralnet.ucsd.edu:443 "GET /source/3063/ HTTP/1.1" 200 None
+2024-01-30 16:11:28,218 - INFO - CSRF token: FrRMQSrpvSMa7FNWF69a8aMEGbkvWfbVgNfTf9RusUao62EUzFr0Rjy7acy1TwdK
+2024-01-30 16:11:28,218 - INFO - Script finished
