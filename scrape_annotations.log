@@ -1,9 +1,10 @@
-2024-01-30 16:15:51,425 - INFO - Starting downloading process for annotations
-2024-01-30 16:15:51,432 - DEBUG - Starting new HTTPS connection (1): coralnet.ucsd.edu:443
-2024-01-30 16:16:11,422 - DEBUG - https://coralnet.ucsd.edu:443 "GET /accounts/login/ HTTP/1.1" 200 None
-2024-01-30 16:16:13,417 - DEBUG - https://coralnet.ucsd.edu:443 "POST /accounts/login/ HTTP/1.1" 302 0
-2024-01-30 16:16:13,707 - DEBUG - https://coralnet.ucsd.edu:443 "GET /source/ HTTP/1.1" 302 0
-2024-01-30 16:16:15,501 - DEBUG - https://coralnet.ucsd.edu:443 "GET /source/about/ HTTP/1.1" 200 None
-2024-01-30 16:16:15,505 - INFO - login successfully
-2024-01-30 16:16:15,669 - INFO - Downloading annotations for source https://coralnet.ucsd.edu/source/3063/
-2024-01-30 16:16:17,257 - DEBUG - https://coralnet.ucsd.edu:443 "GET /source/3063/ HTTP/1.1" 200 None
+2024-01-31 03:26:19,075 - INFO - Starting downloading process for annotations
+2024-01-31 03:26:19,144 - DEBUG - Starting new HTTPS connection (1): coralnet.ucsd.edu:443
+2024-01-31 03:26:20,067 - DEBUG - https://coralnet.ucsd.edu:443 "GET /accounts/login/ HTTP/1.1" 200 None
+2024-01-31 03:26:20,825 - DEBUG - https://coralnet.ucsd.edu:443 "POST /accounts/login/ HTTP/1.1" 302 0
+2024-01-31 03:26:21,221 - DEBUG - https://coralnet.ucsd.edu:443 "GET /source/ HTTP/1.1" 302 0
+2024-01-31 03:26:21,915 - DEBUG - https://coralnet.ucsd.edu:443 "GET /source/about/ HTTP/1.1" 200 None
+2024-01-31 03:26:21,919 - INFO - login successfully
+2024-01-31 03:26:21,969 - INFO - Downloading annotations for source ZONE 3 new from https://coralnet.ucsd.edu/source/3366/
+2024-01-31 03:26:23,063 - DEBUG - https://coralnet.ucsd.edu:443 "GET /source/3366/ HTTP/1.1" 200 None
+2024-01-31 03:26:23,078 - INFO - Sending POST request to https://coralnet.ucsd.edu/source/3366/export/annotations/
